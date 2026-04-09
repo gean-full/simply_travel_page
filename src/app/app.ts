@@ -23,5 +23,3 @@ import { Articles } from "./articles/articles";
 export class App {
   protected readonly title = signal('projeto-perifericos-angular');
 }
-
-//Eduardo Hugo Oliveira Lima
